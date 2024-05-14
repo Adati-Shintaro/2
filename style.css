@@ -243,15 +243,15 @@ div#left ul li a {
 }
 
 a#icon_tel {
-  background: url(images/綜合演習\　ロゴ電話_13.png) no-repeat 14px center;
+  background: url(images/6.png) no-repeat 14px center;
 }
 
 a#icon_blog {
-  background: url(images/綜合演習\　ロゴペン16.png) no-repeat 14px center;
+  background: url(images/5.png) no-repeat 14px center;
 }
 
 a#icon_voice {
-  background: url(images/綜合演習\　ロゴスマホ_19.png) no-repeat 14px center;
+  background: url(images/4.png) no-repeat 14px center;
 }
 /* ========================================
 	ライト
@@ -345,3 +345,4 @@ footer ul li a {
   font-weight: bold;
   text-decoration: none;
 }
+
