@@ -253,6 +253,11 @@ a#icon_blog {
 a#icon_voice {
   background: url(images/4.png) no-repeat 14px center;
 }
+
+a#icon_movie {
+  background: url(images/youtubelink_20.png) no-repeat 14px center;
+  
+}
 /* ========================================
 	ライト
 ========================================= */
